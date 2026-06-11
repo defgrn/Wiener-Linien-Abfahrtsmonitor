@@ -69,7 +69,7 @@ Wir benutzen 2 ESP Module, einen Sender und einen Empfänger ESP, Ein 1,54″ Zo
 
 ## Wiener Linien API
 
-GET https://www.wienerlinien.at/ogd_realtime/monitor? **rbl=4822**
+GET https://www.wienerlinien.at/ogd_realtime/monitor? **rbl=1252**
 
 Die **RBL Nummer** (Rechnergestütztes Betriebsleitsystem) identifiziert eindeutig eine Haltestelle, abrufbar über OGD Stammdaten oder Webserver konfigurierbar
 
