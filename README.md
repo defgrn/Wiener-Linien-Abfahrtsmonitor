@@ -2,7 +2,7 @@ Lies mich!
 
 ## Wiener-Linien-Abfahrtsmonitor - boat
 
-![grafik-removebg-preview.png](C:\Users\andre\Downloads\grafik-removebg-preview.png)
+![splash logo](img/boat.png)
 
 Ersteller: Andreas Oprea, Emir Kaya, Raphael Ackerler
 
@@ -57,7 +57,7 @@ Wir benutzen 2 ESP Module, einen Sender und einen Empfänger ESP, Ein 1,54″ Zo
 
 + Abfahrtsanzeige im Dauerbetrieb: Zeigt die Abfahrten an ~ kontinuierlich
 
-![](C:\Users\andre\AppData\Roaming\marktext\images\2026-06-11-18-39-29-image.png)
+![Abfahrt Live](img/abfahrt.png)
 
 ## ESP-NOW
 
@@ -86,7 +86,7 @@ Backlight BL: Vcc/GPIO 5
 
 Vcc und GND standardmäßig an 3.3V PIN des ESPs Spannungsregler und GND Pin anschließen 
 
-![](C:\Users\andre\AppData\Roaming\marktext\images\2026-06-11-18-55-08-image.png)
+![Schaltplan des Projekts](img/schaltplan.png)
 
 _Schaltplan: 1,5″ TFT Screen ↔ ESP32 Empfänger_
 
