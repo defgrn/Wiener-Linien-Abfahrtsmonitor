@@ -1,0 +1,11 @@
+# temp
+.build/
+build/
+bin/
+*.local.properties
+
+# vscode / ide
+.vscode/
+.idea/
+*.swp
+.DS_Store
